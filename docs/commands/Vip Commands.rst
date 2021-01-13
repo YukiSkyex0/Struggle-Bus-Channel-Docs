@@ -30,12 +30,18 @@ Stream Avatars
 **!battleroyale**
   Start up a battle to the death, see who will be last left standing!
 
+**!battleroyale cancel**
+  Stop the current Battle Royale
+
 **!boss [easy/medium/hard] X**
   Start a boss fight. Choose the difficultly and prize if they win
   
   .. code-block:: none
 
     !boss easy 200
+
+**!boss cancel**
+  Cancel the current boss fight
 
 **!mass action**
   Have all of the avatars do an action
