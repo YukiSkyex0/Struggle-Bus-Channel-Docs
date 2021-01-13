@@ -37,18 +37,18 @@ Half of the Channel Points spent will be added back as Phatcoin
 **Random Effect**
   Activate a random effect bypassing any cooldowns. It can be one of the following:
 
-  * Dun-Dun-DUUUUUUN
-  * HEYAYAYAYA
-  * Illuminati
-  * TBC
-  * Emote Only Mode
-  * !default
-  * !blue
-  * !green
-  * !red
-  * !pink
-  * !purple
-  * !rainbow
+  * **Dun-Dun-DUUUUUUN**
+  * **HEYAYAYAYA**
+  * **Illuminati**
+  * **TBC**
+  * **Emote Only Mode**
+  * **!default**
+  * **!blue**
+  * **!green**
+  * **!red**
+  * **!pink**
+  * **!purple**
+  * **!rainbow**
 
 900 Points
 ----------
