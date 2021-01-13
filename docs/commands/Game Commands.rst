@@ -44,7 +44,7 @@ Star Citizen
 
   *Phatcoin cost: 0*
 
-**!sc**
+**!starcitizen**
   Get a link to sign up for SC and my referral code
 
   *Phatcoin cost: 0*
