@@ -20,10 +20,16 @@ You can also join the Discord_ for the latest in whats happening and random meme
 
 Last but not least, how about following on Twitter_ or Instagram_?
 
+Ideas or Suggestions?
+---------------------
+
+I am always open to making the stream better and adding new things to it! Feel free to let me know either view DM in Discord_ or shoot me an Email_
+
 
 .. _Discord: https://phat32.tv/discord
 .. _Twitter: https://phat32.tv/twitter
 .. _Instagram: https://phat32.tv/instagram
+.. _Email: mailto:tom@phat32.tv
 
 .. toctree::
    :maxdepth: 2
@@ -42,10 +48,3 @@ Last but not least, how about following on Twitter_ or Instagram_?
    commands/Commands
    commands/Vip Commands
    commands/Mod Commands
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
