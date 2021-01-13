@@ -42,7 +42,6 @@ I am always open to making the stream better and adding new things to it! Feel f
    :caption: Channel Stuff
       
    pages/Channel Points
-   pages/Bits
    pages/Phatcoin
    pages/Stream Avatars
    
@@ -50,6 +49,7 @@ I am always open to making the stream better and adding new things to it! Feel f
    :maxdepth: 2
    :caption: Commands
 
+   commands/Bits Commands
    commands/Commands
    commands/Game Commands
    commands/Sub Commands
