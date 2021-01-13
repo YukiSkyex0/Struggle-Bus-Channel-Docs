@@ -15,6 +15,8 @@ Half of the Channel Points spent will be added back as Phatcoin
 **Dun-Dun-DUUUUUN**
   Activate the meme effect
 
+  *Cooldown: 5 minutes*
+
 **HEYAYAYAYA**
   Activate the camera effect HEYAYAYAYA for memes
 
@@ -24,11 +26,35 @@ Half of the Channel Points spent will be added back as Phatcoin
 **TBC**
   Activate the camera effect TBC
 
+  *Cooldown: 1 minute*
+
 500 Points
 ----------
 
 **Lift Weights**
   Make me lift weights I keep next to my desk
+
+**Random Effect**
+  Activate a random effect bypassing any cooldowns. It can be one of the following:
+
+  * Dun-Dun-DUUUUUUN
+  * HEYAYAYAYA
+  * Illuminati
+  * TBC
+  * Emote Only Mode
+  * !default
+  * !blue
+  * !green
+  * !red
+  * !pink
+  * !purple
+  * !rainbow
+
+900 Points
+----------
+
+**Emote Only Mode**
+  Activate Emote Only Mode for 2 minutes
 
 100,000 Points
 --------------
