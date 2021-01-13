@@ -33,18 +33,23 @@ I am always open to making the stream better and adding new things to it! Feel f
 
 .. toctree::
    :maxdepth: 2
-   :caption: Getting Started:
+   :caption: Getting Started
 
    pages/Getting Started   
 
 .. toctree::
    :maxdepth: 2
-   :caption: Interactions:
-   
-   pages/Phatcoin
+   :caption: Channel Stuff
+      
    pages/Channel Points
    pages/Bits
+   pages/Phatcoin
    pages/Stream Avatars
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Commands
+
    commands/Commands
    commands/Vip Commands
    commands/Mod Commands
