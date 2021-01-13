@@ -29,17 +29,19 @@ Last but not least, how about following on Twitter_ or Instagram_?
    :maxdepth: 2
    :caption: Getting Started:
 
-   Getting Started   
+   pages/Getting Started   
 
 .. toctree::
    :maxdepth: 2
    :caption: Interactions:
    
-   Phatcoin
-   Channel Points
-   Bits
-   Commands
-   Vip Commands
+   pages/Phatcoin
+   pages/Channel Points
+   pages/Bits
+   pages/Stream Avatars
+   commands/Commands
+   commands/Vip Commands
+   commands/Mod Commands
 
 Indices and tables
 ==================
