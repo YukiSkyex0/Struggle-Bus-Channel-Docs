@@ -51,6 +51,7 @@ I am always open to making the stream better and adding new things to it! Feel f
    :caption: Commands
 
    commands/Commands
+   commands/Game Commands
    commands/Sub Commands
    commands/Vip Commands
    commands/Mod Commands
