@@ -1,10 +1,13 @@
 Channel Point Commands
 =======================
 
+Half of the Channel Points spent will be added back as Phatcoin
+
 200 Points
 ----------
 
 **Hydrate**
+  Make me drink water cause I forget sometimes when I get too focused
 
 300 Points
 ----------
@@ -20,6 +23,12 @@ Channel Point Commands
 
 **TBC**
   Activate the camera effect TBC
+
+500 Points
+----------
+
+**Lift Weights**
+  Make me lift weights I keep next to my desk
 
 100,000 Points
 --------------
