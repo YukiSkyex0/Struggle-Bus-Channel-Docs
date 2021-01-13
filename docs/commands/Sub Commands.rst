@@ -3,6 +3,9 @@ Subscriber Commands
 
 Subscriber have access to commands that only they can use! More will be added as we go
 
+Colour Assests
+--------------
+
 **!default**
   Make the assets on stream their default teal colour
 
