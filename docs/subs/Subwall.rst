@@ -10,7 +10,7 @@ Located behind me on Camera I have what has been dubbed the **Subwall**. The nam
 How Do I Get on The Subwall?
 ----------------------------
 
-Have an active subscription and you're name goes on the wall! Gift sub, Prime Sub, Tier Sub it doesn't matter! As long a
+Have an active subscription and you're name goes on the wall! Gift sub, Prime Sub, Tier Sub it doesn't matter! For as long as your sub is active you're name will be on the wall.
 
 Do I Get to Pick The Colour?
 ----------------------------
