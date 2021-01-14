@@ -19,7 +19,7 @@ Phatcoin
     !coins @Phat32 300
 
 **!frozen**
-  Did the stream freeze? This should fit it.
+  Did the stream freeze? This should fix it.
 
 Stream Avatars
 --------------
