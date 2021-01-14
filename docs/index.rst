@@ -38,21 +38,29 @@ I am always open to making the stream better and adding new things to it! Feel f
    pages/Getting Started   
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Channel Stuff
+  :maxdepth: 2
+  :caption: Channel Stuff
       
-   pages/Channel Points
-   pages/Phatcoin
-   pages/Stream Avatars
+  pages/Channel Points
+  pages/Phatcoin
+  pages/Sound Alerts
+  pages/Stream Avatars  
    
 .. toctree::
-   :maxdepth: 2
-   :caption: Commands
+  :maxdepth: 2
+  :caption: Subscribers
 
-   commands/Bits Commands
-   commands/Point Commands
-   commands/Commands
-   commands/Game Commands
-   commands/Sub Commands
-   commands/Vip Commands
-   commands/Mod Commands
+  subs/Discord
+  subs/Subwall
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Commands
+
+  commands/Bits Commands
+  commands/Point Commands
+  commands/Commands
+  commands/Game Commands
+  commands/Sub Commands
+  commands/Vip Commands
+  commands/Mod Commands
