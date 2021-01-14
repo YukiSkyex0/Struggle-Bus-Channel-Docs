@@ -6,7 +6,7 @@ What is Stream Avatars
 
 At the bottom of the stream are little moving Avatars. They are you in the stream! When you chat your message will appear on stream from your avatar.
 
-You can customize them and change them from a selection of Avatars I have added.
+You can customize them and change them from a selection of Avatars I have added either in stream or by going to https://phat32.tv/avatars
 
 What do they do?
 ----------------
@@ -22,6 +22,22 @@ Check out the Commands documentation for more details
 
 List of Avatars
 ---------------
+
+Free
+++++
+
+* **Aurora**
+* **bluemon**
+* **Crewmate**
+* **Mustang**
+
+2500 Phatcoin
++++++++++++++
+
+* **Goose**
+* **Slime**
+
+  
 
 Working on it. This is suddenly a very big list.
 
