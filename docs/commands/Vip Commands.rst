@@ -1,6 +1,14 @@
 VIP Commands
 ============
 
+Stream
+------
+
+**!replay**
+  Activate the Instant Replay to rewatch an interesting moment for the last 15 seconds for 2 loops (30 seconds)
+
+  **NOTE** This activated when the command is typed and there may be a visual delay.
+
 Phatcoin
 --------
 
@@ -55,8 +63,3 @@ Stream Avatars
     !mass attack @Phat32
 
     !mass bomb
-
-**!replay**
-  Activate the Instant Replay to rewatch an interesting moment for the last 15 seconds for 2 loops (30 seconds)
-
-  **NOTE** This activated when the command is typed and there may be a visual delay.
