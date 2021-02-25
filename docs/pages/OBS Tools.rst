@@ -6,7 +6,7 @@ A list of the tools and plugins that are used to do all the stuff the stream doe
 Tools
 -----
 
-*Lioranboard_*
+Lioranboard_
 	Used to do scene changes and effects that happen on stream. This also enabled the Channel Point interactions to happen automatically
 
 Plugins
