@@ -92,3 +92,5 @@ List of Channel Point Rewards
  
  *I do require a valid shipping address to send this, but it will be kept confidential*
 
+   If you would prefer to not hoard points, you can purchase the pokemon (or request a custom here: https://yukiskye.xyz/BuyPokemon)
+
