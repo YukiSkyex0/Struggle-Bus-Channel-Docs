@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Phat32 Channel Docs'
-copyright = '2021, Tom Hope'
-author = 'Tom Hope'
+project = 'The Struggle Bus Channel Docs'
+copyright = '2021, Skylar Hope'
+author = 'Skylar & Tom Hope'
 
 # The short X.Y version
 version = ''
