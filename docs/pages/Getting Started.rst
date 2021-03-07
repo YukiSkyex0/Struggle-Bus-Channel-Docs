@@ -1,22 +1,21 @@
-Who is Phat32?
-==============
+Who is YukiSkye_x0?
+===================
 
-Hi! I am Phat32, or by just Tom. Feel free to call me Phat32, Phat or Tom! Any of them is totally fine by me!
+Bonjor I'm Madeli- shit I mean... I'm Skylar or Yuki or some combination of the two. The internet has known me as Yuki Skye since 2008 
 
-I am Canadian out in BC, a Husband, a Software Developer, and a Partnered streamer on Twitch. During the day I work a day job and write code, but in the evening or days off I will be streaming! I have a particular love for `Star Citizen`__ which my Wife has also gotten into *(squeee)* but am what you would call a Variety Streamer. I like to change it up and try new and indie games.
+I am Canadian out in BC, a wife, podcaster, and mooching off a Partnered streamer on Twitch. I have a day (but sometimes evening) job where I do tech support but it's not my favourite... I'm doing my best to have a consistent stream in the times I'm not working. What else can you do in a panoramic? I started this powering through all of Nancy Drew (did you know there are 35 of them?!) and have since moved over to the wonderful world of variety streams. And boy do I mean variety.
 
-If you have any questions, feel free to join the Discord_, follow me on Twitter_ or Instagram_, or join the streams happening over on Twitch_
+From Point and Click children's games to Computer-melting Alphas *cough StarCitizen_ cough* with some occasional crafting thrown into the mix, really I think we're here for the personality over the games. 
 
-.. _Discord: https://phat32.tv/discord
-.. _Twitter: https://phat32.tv/twitter
-.. _Instagram: https://phat32.tv/instagram
-.. _Twitch: https://twitch.tv/phat32
-.. _SC: https://phat32.tv/starcitizen
-__ SC_
+If you have any questions, feel free to join the Discord_, follow me on Twitter_ or Instagram_, or join the streams happening on Twitch_
 
-Seriously, Why All of This?
-===========================
+.. _Discord: https://yukiskye.xyz/discord
+.. _Twitter: https://yukiskye.xyz/twitter
+.. _Instagram: https://yukiskye.xyz/instagram
+.. _Twitch: https://twitch.tv/YukiSkye_x0
+.. _StarCitizen: https://yukiskye.xyz/StarCitizen
 
-As with most Streamers, I have added many different ways for the viewers to intereact more directly with the stream while it is happening. Part of that is a bunch of commands that are changed here and there or new ones added for the lulz.
+But Why Though?
+================
 
-Just wanted a nice easy place where that can all be seen
+As I said before I'm mooching off of Phat32 aka Tom aka my husband, who has a lot of the good ideas for stream add-ons and this makes it easy to find out what you can do and how things work :)

@@ -3,20 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Phat32 Channel Docs
-===================
+YukiSkye_x0 Channel Docs
+=========================
 
-Why does Phat have documentation?
----------------------------------
+Why does Skylar have documentation?
+-----------------------------------
 
-Well, I am a Software Developer and wanted to make sure all the things people can do to the stream are accessible to everyone to see what they can do! Plus I am also lazy and wanted an easy way to update when I add new things.
+Well, Phat has docs, and I steal all his good ideas.
 
 Where can I watch the streams?
 ------------------------------
 
-That would be over on Twitch at https://twitch.tv/Phat32
+On Twitch, duh? I assume that's how you got here. But it's over at https://twitch.tv/YukiSkye_x0
 
-You can also join the Discord_ for the latest in whats happening and random memes
+You can also join the Struggle Bus Discord_ for the latest in Podcast News and  and random memes
 
 Last but not least, how about following on Twitter_ or Instagram_?
 
@@ -26,10 +26,10 @@ Ideas or Suggestions?
 I am always open to making the stream better and adding new things to it! Feel free to let me know either view DM in Discord_ or shoot me an Email_
 
 
-.. _Discord: https://phat32.tv/discord
-.. _Twitter: https://phat32.tv/twitter
-.. _Instagram: https://phat32.tv/instagram
-.. _Email: mailto:tom@phat32.tv
+.. _Discord: https://yukiskye.xyz/discord
+.. _Twitter: https://yukiskye.xyz/twitter
+.. _Instagram: https://yukiskye.xyz/instagram
+.. _Email: mailto:clearlyskye@gmail.com
 
 .. toctree::
    :maxdepth: 2
@@ -41,9 +41,9 @@ I am always open to making the stream better and adding new things to it! Feel f
 .. toctree::
   :maxdepth: 2
   :caption: Channel Stuff
-      
+
+  pages/BowTato Chips    
   pages/Channel Points
-  pages/Phatcoin
   pages/Sound Alerts
   pages/Stream Avatars  
    

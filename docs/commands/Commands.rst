@@ -70,26 +70,26 @@ Multistream
 **!manics**
   Get the link for watching all the streamers in Chaos Tuesdays
 
-Phatcoin
+BowTato Chips
 --------
 
 **!rank**
-  Displays your rank and amount of Phatcoin
+  Displays your rank and amount of BowTato Chips
 
-**!phatcoin**
-  Displays the amount of Phatcoin you current have
+**!BowTato Chips**
+  Displays the amount of BowTato Chips you current have
 
-**!phatcoin give @Viewer X**
-  Give some of your Phatcoin to someone else in the chat
+**!BowTato Chips give @Viewer X**
+  Give some of your BowTato Chips to someone else in the chat
 
   .. code-block:: none
 
-    !phatcoin give @Phat32 10
+    !BowTato Chips give @Phat32 10
 
 **!tickets X**
   Get tickets for any active giveaway
 
-  *Phatcoin cost: 1000 per ticket*
+  *BowTato Chips cost: 1000 per ticket*
 
   .. code-block:: none
 
@@ -102,7 +102,7 @@ Stream Avatars
   Ask the Magic 8ball
 
 **!duel** *@Viewer*
-  Battle against another viewer, you can also but Phatcoin on the line on who will win the duel
+  Battle against another viewer, you can also but BowTato Chips on the line on who will win the duel
 
   .. code-block:: none
 
@@ -113,21 +113,21 @@ Stream Avatars
 **!fightme**
   Have PhatBot issue you a challenge to fight
 
-  *Phatcoin cost: 10*
+  *BowTato Chips cost: 10*
 
 **!slots X**
-  Play the slots and try to get more Phatcoin
+  Play the slots and try to get more BowTato Chips
 
-  *Phatcoin cost: X*
+  *BowTato Chips cost: X*
 
   .. code-block:: none
 
     !slots 500
 
 **!bet X [blue/pink]**
-  Spin the roulette to try and win more Phatcoin
+  Spin the roulette to try and win more BowTato Chips
 
-  *Phatcoin cost: X*
+  *BowTato Chips cost: X*
 
   .. code-block:: none
 
@@ -139,9 +139,9 @@ Why?!
 **!ad**
   Play an ad on stream automatically
 
-  *Phatcoin cost: 100*
+  *BowTato Chips cost: 100*
 
 **!nospeak**
   Time yourself out for 2 minutes
 
-  *Phatcoin cost: 200*
+  *BowTato Chips cost: 200*

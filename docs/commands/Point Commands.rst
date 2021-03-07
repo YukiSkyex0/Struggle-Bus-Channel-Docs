@@ -1,7 +1,7 @@
 Channel Point Commands
 =======================
 
-Half of the Channel Points spent will be added back as Phatcoin
+Half of the Channel Points spent will be added back as BowTato Chips
 
 200 Points
 ----------

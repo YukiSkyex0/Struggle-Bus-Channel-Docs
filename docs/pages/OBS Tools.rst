@@ -22,10 +22,6 @@ __ ASS_
 
 __ CC_
 
-`Freeze Filter`__
-	Adds the ability to live freeze a source for different effects
-
-__ FF_
 
 `Move Transition`__
 	Adds the ability to both move sources but also change values for another filter for gradual changes
@@ -37,10 +33,6 @@ __ MT_
 
 __ OW_
 
-`Replay Source`__
-	Adds the ability to replay a specific source instead of the whole scene for clean replays
-
-__ RS_
 
 `StreamFX`__
 	Adds many filters to sources to allow many effects
@@ -49,9 +41,7 @@ __ SFX
 
 .. _ASS: https://obsproject.com/forum/resources/advanced-scene-switcher.395/
 .. _CC: https://obsproject.com/forum/resources/closed-captioning-via-google-speech-recognition.833/
-.. _FF: https://obsproject.com/forum/resources/freeze-filter.950/
 .. _Lioranboard: https://obsproject.com/forum/resources/lioranboard-stream-deck-animator.862/
 .. _MT: https://obsproject.com/forum/resources/move-transition.913/
 .. _OW: https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/
-.. _RS: https://obsproject.com/forum/resources/replay-source.686/
 .. _SFX: https://obsproject.com/forum/resources/streamfx-for-obs-studio.578/
