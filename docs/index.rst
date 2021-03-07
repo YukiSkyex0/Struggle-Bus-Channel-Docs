@@ -52,7 +52,7 @@ I am always open to making the stream better and adding new things to it! Feel f
   :caption: Subscribers
 
   subs/Discord
-  subs/Subwall
+
 
 .. toctree::
   :maxdepth: 2
@@ -60,8 +60,6 @@ I am always open to making the stream better and adding new things to it! Feel f
 
   commands/Bits Commands
   commands/Point Commands
-  commands/Commands
-  commands/Game Commands
-  commands/Sub Commands
-  commands/Vip Commands
+  commands/Chat Commands
   commands/Mod Commands
+  commands/Stream Specific Commands
