@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'The Struggle Bus Channel Docs'
-copyright = '2021, Skylar Hope'
+copyright = '2021, Yuki Skye'
 author = 'Skylar & Tom Hope'
 
 # The short X.Y version

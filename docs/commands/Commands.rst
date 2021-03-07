@@ -4,26 +4,35 @@ Chat Commands
 General
 -------
 
+**!avatars** / **!pocketmans**
+  Want to change your pokemon? Get the link here.
+
 **!chair**
-  Let the chat know Chair stream is best stream!
+  Praise the chair or whatever.
+
+**!chaos**
+  Get the Multistream link for Chaos Tuesday group streams
 
 **!discord**
   Get the Discord link
 
-**!excellent**
-  Remind the stream to Be Excellent to Eachother
+**!docs**
+  How to get to 
 
 **!followage**
-  Check how long you've been following for
+  Check the time you've been following the channel
+
+**!friends**
+  Want to know who all the voices are on a Tuesday stream?
 
 **!joke**
   Get a joke from PhatBot that is pulled from icanhazdadjoke.com API
 
-**!pixelalliance**
+**!pixelalliance** ? **!pa**
   Get a link to our team Pixel Alliance
 
-**!randomquote**
-  Get a random quote from the Chat Bot
+**!podcast**
+  Get the link to the most recent episode of "That's Twinteresting" (a podcast I made with my twin sister)
 
 **!socials**
   Get links to my socials
@@ -31,17 +40,20 @@ General
 **!song**
   Get the Title and Artist of the song currently playing in stream
 
-**!subwall**
-  Zoom into the Subwall and let others know about the Subwall
+**!stabbed**
+  Add to the stab count on a Needle Felting stream. Bonus sound effect.
 
-**!treat**
-  Get a link to my TreatStream if you want to get me some food
+**!store**
+  Drops a link to the shop with dumb things (like shoes with the "Lil Phat" emotes)
+
+**!tips**
+  Get the link to my tipjap
 
 **!uptime**
   How long has the stream been running for
 
-**!wife**
-  Shout out for the Wiphe
+**!youtube**
+  Get the link to my YouTube channel that will eventually have more videos on it.
 
 Emotes
 ------
