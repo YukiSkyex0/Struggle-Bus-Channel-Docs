@@ -28,6 +28,9 @@ General
 **!joke**
   Get a joke from PhatBot that is pulled from icanhazdadjoke.com API
 
+**!nintendo**
+  Get my  switch friend code and play with me :)
+
 **!pixelalliance** ? **!pa**
   Get a link to our team Pixel Alliance
 
