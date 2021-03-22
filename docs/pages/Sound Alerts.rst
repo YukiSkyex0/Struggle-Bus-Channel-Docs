@@ -65,7 +65,9 @@ Cost: 100 Bits
 ++++++++++++++
 
 **Baby Shark**
+
 **Mommy Shark**
+
 **Daddy Shark**
  IYKYK
 
@@ -84,7 +86,7 @@ Cost: 250 Bits
 **Boo!**
   It's scary.
 
-Cost 500 Bits
+Cost: 500 Bits
 +++++++++++++
 
 **Nancy Drew - Charlotte Poem**
