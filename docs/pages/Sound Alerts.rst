@@ -4,138 +4,88 @@ Sound Alerts
 What is Sound Alerts?
 ---------------------
 
-Sound Alerts are sound effects you can trigger to play in the stream either with Channel Points or Bits, there are a different selection of sound effects between the 2 types.
+Sound Alerts are sound effects you can trigger to play in the stream either with Channel Points (Click the bows in the bottom left of the chat) or Bits (using the Sound Alerts overlay), there are a different selection of sound effects between the 2 types.
 
 List of Alerts by Channel Points
 --------------------------------
 
-There are 6 sounds you can play in stream (it is supposed to be 5 but it bugged out and I have 6... Shhhhh.). All Sound Alerts trigger at 300 Channel Points with a 10 second cooldown.
+150 Bows
+++++++++
 
-**HA GOT EMM**
-  Plays the sound "HA! GOT EMMM"
+**Sound Alerts**
+  Play select sounds on stream (like with bits, but for basically free)
 
-  *Cost: 300 Points**
+  * Applause
+  * NICENICENICE
+  * Hey Listen!
+  * A few moments later...
 
-**A few moments later**
-  Plays the sound "A few moments later"
+200 Bows
+++++++++
 
-  *Cost: 300 Points**
+**Sound Alerts Take 2**
+  Same as the other one, but better[?] sounds.
 
-**Bruh**
-  Plays the sound "BRUH"
-
-  *Cost: 300 Points**
-
-**Owen Wilson WOW**
-  Plays a sound of Owen Wilson saying "Wow"
-
-  *Cost: 300 Points**
-
-**At this moment he knew**
-  Plays the sound "It was at this moment that he knew. He fucked up."
-
-  *Cost: 300 Points**
+  * Baby Yoda
+  * Potato
+  * NANI?!
 
 
-List of Alerts by Bits
+Sound Alerts Overlay - Redeemed with Bits
 ----------------------
 
-**OOF**
-  Play a sound effect "OOF"
+Cost: 10 Bits
++++++++++++++
 
-  *Cost: 10 bits*
+**U FAIL**
+  Plays you lose sound from Mario
 
-**Baby Yoda**
-  Play a little song singing "Baby Yoda! Baby Baby Yoda!"
+**Rip**
+ Plays a sad song
 
-  *Cost: 50 bits*
+**Owen Wilson Wow**
+  Need I say more?
 
-**Please God No**
-  Play a sound effect "Please God No. No. No. NOOOOOOOOOOOOOOOOOOOOOOOO."
+**ba dum tss**
+  Two drums and a cymbal fall off a cliff
 
-  *Cost: 50 bits*
+Cost: 25 Bits
++++++++++++++
 
-**Hey Kappa**
-  Play a sound effect "Hey Kappa Kappa Hey Kapapa Kappa Hey"
+**Nancy I C U**
+  I revlive the reason I stopped playing Nancy Drew as a child
 
-  *Cost: 50 bits*
+Cost: 50 Bits
++++++++++++++
 
-**BOOM HEADSHOT**
-  Play a sound effect "BOOM HEADSHOT"
+**This is Unacceptable**
+  Do you like Rick and Morty?
 
-  *Cost: 75 bits*
-
-**Run (Dramatic Music)**
-  Play a sound effect "Run" followed by dramatic music
-
-  *Cost: 100 bits*
-
-**Crab Rave**
-  Play a sound effect Crab Rave Music
-
-  *Cost: 100 bits*
-
-**IT'S OVER 9000**
-  Play a sound effect "IT'S OVER 9000!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-
-  *Cost: 100 bits*
-
-**Just Do It**
-  Play a sound effect "JUST DO IT!!"
-
-  *Cost: 100 bits*
+Cost: 100 Bits
+++++++++++++++
 
 **Baby Shark**
-  Play a sound effect "Baby Shark Do do doo do"
-
-  *Cost: 125 bits*
-
 **Mommy Shark**
-  Play a sound effect "Mommy Shark Do do doo do"
-
-  *Cost: 125 bits*
-
 **Daddy Shark**
-  Play a sound effect "Daddy Shark Do do doo do"
+ IYKYK
 
-  *Cost: 125 bits*
+Cost: 125 Bits
+++++++++++++++
 
-**Chicken**
-  Play a sound effect little song of a chicken
+**Gaot Scream**
+ It's a goat.
 
-  *Cost: 125 bits*
+**Please God NO!**
+ I have never watched The Office, but I hear it's funny.
 
-**Chicken Dance**
-  Play a pretty sweet dance chicken song
+Cost: 250 Bits
+++++++++++++++
 
-  *Cost: 125 bits*
+**Boo!**
+  It's scary.
 
-**Airhorn**
-  Play a sound effect of an Airhorn
+Cost 500 Bits
++++++++++++++
 
-  *Cost: 150 bits*
-
-**Benny Hill Theme**
-  Play the Benny Hill Theme
-
-  *Cost: 150 bits*
-
-**Titanic Flute**
-  Play a recorder version of the song from Titan
-
-  *Cost: 250 bits*
-
-**Epic Sax**
-  Play a the Epix Sax loop
-
-  *Cost: 400 bits*
-
-**Cowboy Screaming... AHHHHHHHHHHHHHH**
-  Play a sound effect of a Cowboy yelling "AAAAAAAAAAAH"
-
-  *Cost: 500 bits*
-
-**Star Wars Cantina**
-  Play a the Cantina song
-
-  *Cost: 500 bits*
+**Nancy Drew - Charlotte Poem**
+ Creepy music and poem from The Ghost of Thorton Hall
