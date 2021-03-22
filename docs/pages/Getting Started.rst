@@ -1,9 +1,9 @@
 Who is YukiSkye_x0?
 ===================
 
-Bonjor I'm Madeli- shit I mean... I'm Skylar or Yuki or some combination of the two. The internet has known me as Yuki Skye since 2008 
+Bonjour I'm Madeli- shit I mean... I'm Skylar or Yuki or some combination of the two. The internet has known me as Yuki Skye since 2008 
 
-I am Canadian out in BC, a wife, podcaster, and mooching off a Partnered streamer on Twitch. I have a day (but sometimes evening) job where I do tech support but it's not my favourite... I'm doing my best to have a consistent stream in the times I'm not working. What else can you do in a panoramic? I started this powering through all of Nancy Drew (did you know there are 35 of them?!) and have since moved over to the wonderful world of variety streams. And boy do I mean variety.
+I am Canadian out in BC, somehow a wife, podcaster, and mooching off a Partnered streamer on Twitch. I have a day (but sometimes evening) job where I do tech support but it's not my favourite... I'm doing my best to have a consistent stream in the times I'm not working. What else can you do in a panoramic? I started this powering through all of Nancy Drew (did you know there are 35 of them?!) and have since moved over to the wonderful world of variety streams. And boy do I mean variety.
 
 From Point and Click children's games to Computer-melting Alphas *cough StarCitizen_ cough* with some occasional crafting thrown into the mix, really I think we're here for the personality over the games. 
 

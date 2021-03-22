@@ -1,7 +1,7 @@
 Sound Alerts
 ============
 
-What is Sound Alerts?
+What are Sound Alerts?
 ---------------------
 
 Sound Alerts are sound effects you can trigger to play in the stream either with Channel Points (Click the bows in the bottom left of the chat) or Bits (using the Sound Alerts overlay), there are a different selection of sound effects between the 2 types.
