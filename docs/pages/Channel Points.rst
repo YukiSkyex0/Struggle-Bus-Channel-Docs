@@ -58,6 +58,14 @@ List of Channel Point Rewards
 **Move Dat Pokemon**
  Pick one of the needle felted buddies to have a seat on the microphone or my head, whatever.
 
+**No Glasses**
+ I can't see without my glasses! I will take my glasses off for up to 5 mintes for each redeemed iteration of this channel point reward. Redemptions stack!
+ I can read the screen if very close.  
+ Can be negated by the "Wear your glasses" channel point  
+
+**Wear Your Glasses**
+ Since I can't see, do me a kindness and allow me to put my glasses back on (or if there are multiple "No Glasses" redemptions, take off 5 minutes of my punishment)  
+
 300 Bows
 ++++++++
 
@@ -70,11 +78,23 @@ List of Channel Point Rewards
 500 Bows
 ++++++++
 
+**Get Fit!**
+ Add 10 minutes of Ring Fit play to the stream.
+ (will be executed once 30 minutes have been accumulated)
+ Feel free to redeem these when I am offline to force me to start with Ring Fit
+
 **Make Me Dab**
   'nuff said
 
 **Emote-only Chat**
-  Trigger emote only mode for 3 minutes
+  Trigger emote only mode for 3 minutes10,000 Bows
+
+1,000 Bows
++++++++++++
+
+**Virtual Skye**
+  Trigger my VTuber to take over the stream
+  
 
 10,000 Bows
 +++++++++++
