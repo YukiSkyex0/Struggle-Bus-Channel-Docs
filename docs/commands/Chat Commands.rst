@@ -79,10 +79,10 @@ Emotes
 Multistream
 -----------
 
-**!copilot**
+**!whodis**
   Get the link for watching Skye and I when we stream couples streams
 
-**!manics**
+**!friends**
   Get the link for watching all the streamers in Chaos Tuesdays
 
 BowTato Chips

@@ -11,9 +11,9 @@ Any Channel Points used in stream are earned back 1:1 in BowTato Chips
 How do Channel Rewards affect the stream?
 -----------------------------------------
 
-Using the tool Lioranboard_ I can create complex sequences of commands that can be activated using Channel Points
+Using the tool SAMMI_ I can create complex sequences of commands that can be activated using Channel Points
 
-.. _Lioranboard: https://phat32.tv/lb
+.. _SAMMI: https://sammisolutions.itch.io/sammi
 
 
 List of Channel Point Rewards
@@ -87,7 +87,7 @@ List of Channel Point Rewards
   'nuff said
 
 **Emote-only Chat**
-  Trigger emote only mode for 3 minutes10,000 Bows
+  Trigger emote only mode for 3 minutes
 
 1,000 Bows
 +++++++++++
